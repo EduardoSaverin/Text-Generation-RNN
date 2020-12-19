@@ -1,4 +1,4 @@
-# Text Prediction RNN 
+# Text Generation RNN 
 [Colab](https://colab.research.google.com/drive/19OQj_hmxUXo718Uw5L35nrbq4qPSzoFU?usp=sharing)
 
 ## Data
